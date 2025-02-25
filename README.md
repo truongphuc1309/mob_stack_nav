@@ -2,4 +2,4 @@
 ## MSV: 22810310381
 
 ## Kết quả:
-![caption](result.mp4)
+![caption](result.gif)
